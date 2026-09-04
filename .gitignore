@@ -1,0 +1,17 @@
+bin/
+obj/
+out/
+dist/
+build/
+*.user
+*.suo
+.vs/
+.idea/
+*.log
+Thumbs.db
+.DS_Store
+*.o
+*.obj
+*.pdb
+CMakeFiles/
+cmake-build-*/

